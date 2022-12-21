@@ -1,0 +1,13 @@
+{
+  "common": {
+    "title": "Loan Administration"
+  },
+  "login": {
+    "tipLoginSuccess": "Login success"
+  },
+  "syserr": {
+    "10001": "System or network error",
+    "10004": "Account error",
+    "10005": "Password error"
+  }
+}
